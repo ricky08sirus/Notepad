@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-64be680e58c2f6ce94fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Notepad",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Notepad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notepad-Debug-7865b60e85e5116897aa.json",
+					"name" : "Notepad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Notepad_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notepad_autogen-Debug-5bc0395c29a2d7c146c7.json",
+					"name" : "Notepad_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Notepad_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notepad_autogen_timestamp_deps-Debug-17615427156a19521c28.json",
+					"name" : "Notepad_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

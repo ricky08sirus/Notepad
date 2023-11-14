@@ -1,0 +1,13 @@
+# ninja log v5
+3160	3430	7216882125872902	Notepad.exe	d8a35448f077bfe6
+359	3159	7216882123250640	CMakeFiles/Notepad.dir/mainwindow.cpp.obj	3dcd6a1c25bf6ec3
+1411	5246	7216864079182913	CMakeFiles/Notepad.dir/main.cpp.obj	a401064783d83cbf
+469	591	7216792597626597	CMakeFiles/Notepad.dir/Notepad_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	5412af92634f90f2
+1398	5230	7216864079032896	CMakeFiles/Notepad.dir/Notepad_autogen/mocs_compilation.cpp.obj	2c84804f64d84770
+347	462	7216792596263151	Notepad_autogen/EWIEGA46WW/qrc_Resource.cpp	8eaa183eef31afc9
+55	349	7216882095147838	C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Notepad_autogen/mocs_compilation.cpp	69185d3dd626786d
+347	462	7216792596263151	C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Notepad_autogen/EWIEGA46WW/qrc_Resource.cpp	8eaa183eef31afc9
+55	349	7216882095147838	C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Notepad_autogen/timestamp	69185d3dd626786d
+55	349	7216882095147838	Notepad_autogen/mocs_compilation.cpp	69185d3dd626786d
+55	349	7216882095147838	Notepad_autogen/timestamp	69185d3dd626786d
+29	777	7216884312908851	build.ninja	675eed8379025772

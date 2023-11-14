@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Notepad_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad",
+	"CMAKE_SOURCE_DIR" : "C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad",
+	"INCLUDE_DIR" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/Notepad_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/Resource.qrc",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/redo.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/new.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/save.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/About.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/open.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/save_as.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/undo.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/copy.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/paste.png",
+		"C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/icons/cut.png"
+	],
+	"LOCK_FILE" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/Notepad_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/aman0/OneDrive/Desktop/c++_project/build-Notepad-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/Notepad_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/aman0/OneDrive/Desktop/c++_project/Notepad/Resource.qrc",
+	"VERBOSITY" : 0
+}
